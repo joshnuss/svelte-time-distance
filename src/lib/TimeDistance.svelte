@@ -1,6 +1,6 @@
 <script>
   import { formatDistance, lightFormat } from 'date-fns'
-  import { now } from './clock'
+  import { now } from './heartbeat'
 
   let classes = ''
 
