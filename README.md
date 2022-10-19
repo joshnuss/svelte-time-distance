@@ -26,7 +26,7 @@ Add to your UI:
   let timestamp = new Date()
 </script>
 
-<TimeDistance {timestamp} class="jumbo"/>
+<TimeDistance {timestamp} class="jumbo" />
 ```
 
 ## License
