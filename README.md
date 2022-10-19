@@ -18,7 +18,7 @@ pnpm i -D svelte-time-distance
 Add to your UI:
 
 ```html
-<!-- Example.svele -->
+<!-- Example.svelte -->
 <script>
   import { TimeDistance } from 'svelte-time-distance'
 
